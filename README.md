@@ -1,4 +1,4 @@
-## Hi there, I'm Moti👋
+## Hi there 👋
 
 <!--
 **Moti-Abe/Moti-Abe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
