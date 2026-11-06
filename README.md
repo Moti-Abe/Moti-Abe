@@ -11,19 +11,20 @@
 <br>
 <br>
 
+
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
-      <a href="https://www.linkedin.com/in/moti-abe/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+      <a href="https://www.linkedin.com/in/moti-abe/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" border="0" /></a>
     </td>
     <td>
-      <a href="mailto:motiabe8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+      <a href="mailto:motiabe8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" border="0" /></a>
     </td>
     <td>
-      <a href="https://leetcode.com/u/MotiAbe/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" /></a>
+      <a href="https://leetcode.com/u/MotiAbe/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" border="0" /></a>
     </td>
     <td>
-      <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-2E8B57?logo=readthedocs&logoColor=white" /></a>
+      <a href="https://motiabe.vercel.app/assets/resume/MOTI_ABE_Resume.pdf"><img src="https://img.shields.io/badge/Resume-2E8B57?logo=readthedocs&logoColor=white" border="0" /></a>
     </td>
   </tr>
 </table>
