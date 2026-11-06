@@ -6,11 +6,14 @@
   <strong>Frontend Developer | UI/UX Enthusiast</strong><br>
   💻 Crafting beautiful & functional web and mobile experiences<br>
   📍 Based in Ethiopia 🇪🇹
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moti-abe/)
+        [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:motiabe8@gmail.com)
+        [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/MotiAbe/)
+        [![Resume](https://img.shields.io/badge/Resume-2E8B57?logo=readthedocs&logoColor=white)](YOUR_RESUME_LINK)
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moti-abe/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:motiabe8@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/MotiAbe/)
+
 
 # 💻 Tech Stack:
 ### Frontend & Mobile
