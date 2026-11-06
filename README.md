@@ -8,7 +8,9 @@
   📍 Based in Ethiopia 🇪🇹
 </p>
 
-<p align="center" style="margin-top: 50px;">
+<br>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/moti-abe/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
