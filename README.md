@@ -9,6 +9,7 @@
 </p>
 
 <br>
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/moti-abe/">
@@ -26,7 +27,7 @@
 </p>
 
 
-# 💻 Tech Stack:
+
 ### Frontend & Mobile
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
